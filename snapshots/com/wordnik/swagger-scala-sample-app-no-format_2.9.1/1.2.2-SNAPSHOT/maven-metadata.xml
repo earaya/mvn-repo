@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.wordnik</groupId>
+  <artifactId>swagger-scala-sample-app-no-format_2.9.1</artifactId>
+  <version>1.2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130403.230034</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130403230034</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.2.2-20130403.230034-1</value>
+        <updated>20130403230034</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.2-20130403.230034-1</value>
+        <updated>20130403230034</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.2.2-20130403.230034-1</value>
+        <updated>20130403230034</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
